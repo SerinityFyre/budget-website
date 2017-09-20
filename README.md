@@ -1,2 +1,2 @@
 # budget-website
-Initial DevOps Project
+20170920 - crated a small Amazon Linux server on the free tier. Researched how to install nginx, but "Amazon Linux" did not have an immediately evident supported package. Further research indicated the Amazon Linux OS was originally based on CentOS, so I attempted to install using the command `sudo yum install -y nginx`. The version installed seems to align with the nginx site documentation.
